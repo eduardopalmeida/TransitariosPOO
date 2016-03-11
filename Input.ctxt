@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=question
+comment0.target=java.lang.String\ askString(java.lang.String)
+comment1.params=question
+comment1.target=int\ askInt(java.lang.String)
+comment2.params=question
+comment2.target=double\ askDouble(java.lang.String)
+comment3.params=question
+comment3.target=boolean\ askBoolean(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ lerString()
+comment5.params=
+comment5.target=int\ lerInt()
+comment6.params=
+comment6.target=double\ lerDouble()
+comment7.params=
+comment7.target=boolean\ lerBoolean()
+comment8.params=
+comment8.target=void\ lerNext()
+comment9.params=
+comment9.target=void\ primaEnter()
+numComments=10

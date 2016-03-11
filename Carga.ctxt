@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=cPeso
+comment0.target=Carga(double)
+comment1.params=c
+comment1.target=Carga(Carga)
+comment2.params=
+comment2.target=Carga()
+comment3.params=
+comment3.target=CategCarga\ getCategCarga()
+comment4.params=
+comment4.target=double\ getPeso()
+comment5.params=cCateg
+comment5.target=void\ setCategCarga(CategCarga)
+comment6.params=cPeso
+comment6.target=void\ setPeso(double)
+comment7.params=
+comment7.target=Carga\ clone()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=o
+comment9.target=boolean\ Equals(java.lang.Object)
+numComments=10

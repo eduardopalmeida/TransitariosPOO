@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=cCargas
+comment0.target=QueridoMudeiACasa(java.util.ArrayList)
+comment1.params=q
+comment1.target=QueridoMudeiACasa(QueridoMudeiACasa)
+comment10.params=
+comment10.target=double\ totalCarga()
+comment2.params=
+comment2.target=QueridoMudeiACasa()
+comment3.params=
+comment3.target=java.util.ArrayList\ getCarga()
+comment4.params=
+comment4.target=CategCarga\ getCategCarga()
+comment5.params=cCargas
+comment5.target=void\ setCarga(java.util.ArrayList)
+comment6.params=
+comment6.target=int\ getMaxCarga()
+comment7.params=cMaxCarga
+comment7.target=void\ setMaxCarga(int)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=
+comment9.target=QueridoMudeiACasa\ clone()
+numComments=11
